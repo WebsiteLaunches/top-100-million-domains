@@ -39,14 +39,14 @@ curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domain
 
 ## 📁 Available Domain Lists
 
-| File | Domains | Size | Best For |
-|------|---------|------|----------|
-| [top-100m-domains.csv](data/top-100m-domains.csv) | 100,000,000 | 1.7GB | Comprehensive analysis, AI training |
-| [top-10m-domains.csv](data/top-10m-domains.csv) | 10,000,000 | 163MB | Machine learning training |
-| [top-1m-domains.csv](data/top-1m-domains.csv) | 1,000,000 | 15MB | Domain investing, bulk analysis |
-| [top-100k-domains.csv](data/top-100k-domains.csv) | 100,000 | 1.4MB | Market research, link building |
-| [top-10k-domains.csv](data/top-10k-domains.csv) | 10,000 | 127KB | Competitor analysis, SEO benchmarking |
-| [top-1k-domains.csv](data/top-1k-domains.csv) | 1,000 | 13KB | Quick reference, brand research |
+| File | Domains | Size | Download | Best For |
+|------|---------|------|----------|----------|
+| top-100m-domains.csv | 100,000,000 | 1.7GB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-100m-domains.csv) | Comprehensive analysis, AI training |
+| top-10m-domains.csv | 10,000,000 | 163MB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-10m-domains.csv) | Machine learning training |
+| top-1m-domains.csv | 1,000,000 | 15MB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-1m-domains.csv) | Domain investing, bulk analysis |
+| top-100k-domains.csv | 100,000 | 1.4MB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-100k-domains.csv) | Market research, link building |
+| top-10k-domains.csv | 10,000 | 127KB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-10k-domains.csv) | Competitor analysis, SEO benchmarking |
+| top-1k-domains.csv | 1,000 | 13KB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-1k-domains.csv) | Quick reference, brand research |
 
 ## 🎯 Top 10 Domains (November 2025)
 
