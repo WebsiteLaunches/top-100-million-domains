@@ -30,11 +30,11 @@ Our ranking methodology integrates domain intelligence, proprietary quality sign
 ## 🚀 Quick Start
 
 ```bash
-# Download top 1,000 domains (13KB)
-curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-1k-domains.csv
+# Download top 100 million domains (1.7GB)
+curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-100m-domains.csv
 
-# Download top 1 million domains (15MB)
-curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-1m-domains.csv
+# Download top 10 million domains (163MB)
+curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-10m-domains.csv
 ```
 
 ## 📁 Available Domain Lists
