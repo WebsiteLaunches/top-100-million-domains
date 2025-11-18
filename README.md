@@ -153,7 +153,7 @@ Get enriched domain intelligence including:
 - ✅ **Real-time updates**
 - ✅ **Bulk exports** (JSON, CSV, Parquet)
 
-**[Get Full Domain Intelligence →](https://websitelaunches.com/domains)**
+**[Get Full Domain Intelligence →](https://websitelaunches.com/api)**
 
 ## 📚 Documentation
 
