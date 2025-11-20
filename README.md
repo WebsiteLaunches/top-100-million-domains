@@ -31,22 +31,22 @@ Our ranking methodology integrates domain intelligence, proprietary quality sign
 
 ```bash
 # Download top 100 million domains (1.7GB)
-curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-100m-domains.csv
+curl -LO https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-100m-domains.csv
 
 # Download top 10 million domains (163MB)
-curl -O https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-10m-domains.csv
+curl -LO https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-10m-domains.csv
 ```
 
 ## 📁 Available Domain Lists
 
 | File | Domains | Size | Download | Best For |
 |------|---------|------|----------|----------|
-| top-100m-domains.csv | 100,000,000 | 1.7GB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-100m-domains.csv) | Comprehensive analysis, AI training |
-| top-10m-domains.csv | 10,000,000 | 163MB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-10m-domains.csv) | Machine learning training |
-| top-1m-domains.csv | 1,000,000 | 15MB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-1m-domains.csv) | Domain investing, bulk analysis |
-| top-100k-domains.csv | 100,000 | 1.4MB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-100k-domains.csv) | Market research, link building |
-| top-10k-domains.csv | 10,000 | 127KB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-10k-domains.csv) | Competitor analysis, SEO benchmarking |
-| top-1k-domains.csv | 1,000 | 13KB | [⬇️ Download](https://raw.githubusercontent.com/websitelaunches/top-100-million-domains/main/data/top-1k-domains.csv) | Quick reference, brand research |
+| top-100m-domains.csv | 100,000,000 | 1.7GB | [⬇️ Download](https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-100m-domains.csv) | Comprehensive analysis, AI training |
+| top-10m-domains.csv | 10,000,000 | 163MB | [⬇️ Download](https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-10m-domains.csv) | Machine learning training |
+| top-1m-domains.csv | 1,000,000 | 15MB | [⬇️ Download](https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-1m-domains.csv) | Domain investing, bulk analysis |
+| top-100k-domains.csv | 100,000 | 1.4MB | [⬇️ Download](https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-100k-domains.csv) | Market research, link building |
+| top-10k-domains.csv | 10,000 | 127KB | [⬇️ Download](https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-10k-domains.csv) | Competitor analysis, SEO benchmarking |
+| top-1k-domains.csv | 1,000 | 13KB | [⬇️ Download](https://github.com/websitelaunches/top-100-million-domains/releases/download/v1.0/top-1k-domains.csv) | Quick reference, brand research |
 
 ## 🎯 Top 10 Domains (November 2025)
 
